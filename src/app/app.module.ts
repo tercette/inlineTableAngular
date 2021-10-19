@@ -7,20 +7,19 @@ import { AppComponent } from './app.component';
 import { BankAccountComponent } from './bank-account/bank-account.component';
 
 //vai toma no cu caraio
-<<<<<<< Updated upstream
+
 // teste sdasdasdsdfsdfsdf
 //teste3
-=======
-<<<<<<< HEAD
+
+
 // teste sdasdasd
 // fala mano
 // fala mano 2
 
-=======
+
 // teste sdasdasdsdfsdfsdf
 //teste3
->>>>>>> main
->>>>>>> Stashed changes
+
 @NgModule({
   declarations: [
     AppComponent,
