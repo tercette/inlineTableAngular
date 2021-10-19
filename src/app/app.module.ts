@@ -9,6 +9,7 @@ import { BankAccountComponent } from './bank-account/bank-account.component';
 //vai toma no cu caraio
 // teste sdasdasd
 // fala mano
+// fala mano 2
 
 @NgModule({
   declarations: [
