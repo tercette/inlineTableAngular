@@ -8,6 +8,7 @@ import { BankAccountComponent } from './bank-account/bank-account.component';
 
 //vai toma no cu caraio
 // teste sdasdasdsdfsdfsdf
+//teste3
 @NgModule({
   declarations: [
     AppComponent,
