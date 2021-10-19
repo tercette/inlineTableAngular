@@ -7,7 +7,7 @@ import { AppComponent } from './app.component';
 import { BankAccountComponent } from './bank-account/bank-account.component';
 
 //vai toma no cu caraio
-// teste sdasdasd
+// teste sdasdasdsdfsdfsdf
 @NgModule({
   declarations: [
     AppComponent,
